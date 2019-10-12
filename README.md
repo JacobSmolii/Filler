@@ -33,7 +33,7 @@ Here's another example of a bigger piece with lots of empty space:
 >$ ./filler_vm -f maps/map00 -p1 ../vsmolii.filler -p2 players/superjeannot.filler // -p1 - my bot
 ```
 
-### You can try to use also this:
+##### You can try to use also this:
    <br>-t  --time		set timeout in second
    <br>-q  --quiet		quiet mode
    <br>-i  --interactive	interactive mode(default)
