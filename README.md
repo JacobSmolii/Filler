@@ -11,7 +11,9 @@ On the begining of each turn, a Heat Map is created. It represents the Map of th
 
 ![image](https://user-images.githubusercontent.com/45500862/66694730-8e9fbd80-ec6b-11e9-8e8b-ec83ce075893.png)
 
+Then, the algorithm try to put the piece on each position of the map. One case of the piece has to overlap one of my previous. It calculates the score on each position. The smaller the score is, the best it is, because it will get closer of the ennemy and bother him to play.
 
+![image](https://user-images.githubusercontent.com/45500862/66694780-1d143f00-ec6c-11e9-90b2-33e0a4edab34.png)
 
 
 
