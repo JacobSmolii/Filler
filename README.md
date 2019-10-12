@@ -24,7 +24,16 @@ Here's another example of a bigger piece with lots of empty space:
 ![image](https://user-images.githubusercontent.com/45500862/66694915-2b635a80-ec6e-11e9-857c-98cb917941bf.png)
 
 
-#### Usage: ./filler_vm -f path [-i | -p1 path | -p2 path] <b>[-s | -q | -t time]
+#### Usage: 
+
+```
+>$ make
+>$ cd resources
+>$ ./filler_vm -f maps/map00 -p1 players/abanlin.filler -p2 players/superjeannot.filler // computer bots
+>$ ./filler_vm -f maps/map00 -p1 ../vsmolii -p2 players/superjeannot.filler // -p1 - my bot
+```
+
+./filler_vm -f path [-i | -p1 path | -p2 path] <b>[-s | -q | -t time]
    -t  --time		set timeout in second
    <br>-q  --quiet		quiet mode
    <br>-i  --interactive	interactive mode(default)
