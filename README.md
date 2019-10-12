@@ -9,13 +9,9 @@ The purpose of this project is to write a competitive AI to place more random ob
 
 On the begining of each turn, a Heat Map is created. It represents the Map of the game. Values are assigned on each case of the map. It starts from the position of the ennemy and is incremented until it reaches the board edges :
 
-![image](https://user-images.githubusercontent.com/45500862/66694730-8e9fbd80-ec6b-11e9-8e8b-ec83ce075893.png)
+![image](https://user-images.githubusercontent.com/45500862/66694881-8b0d3600-ec6d-11e9-8697-079b5a15fc07.png)
 
 Then, the algorithm try to put the piece on each position of the map. One case of the piece has to overlap one of my previous. It calculates the score on each position. The smaller the score is, the best it is, because it will get closer of the ennemy and bother him to play.
-
-![image](https://user-images.githubusercontent.com/45500862/66694780-1d143f00-ec6c-11e9-90b2-33e0a4edab34.png)
-
-![image](https://user-images.githubusercontent.com/45500862/66694824-b80d1900-ec6c-11e9-957d-1e714b9e07cf.png)
 
 ![image](https://user-images.githubusercontent.com/45500862/66694834-e3900380-ec6c-11e9-83b2-e0ff9664f144.png)
 
