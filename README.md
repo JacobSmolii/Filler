@@ -15,7 +15,7 @@ Then, the algorithm try to put the piece on each position of the map. One case o
 
 ![image](https://user-images.githubusercontent.com/45500862/66694780-1d143f00-ec6c-11e9-90b2-33e0a4edab34.png)
 
-
+![image](https://user-images.githubusercontent.com/45500862/66694824-b80d1900-ec6c-11e9-957d-1e714b9e07cf.png)
 
 #### Usage: ./filler_vm -f path [-i | -p1 path | -p2 path] <b>[-s | -q | -t time]
    -t  --time		set timeout in second
