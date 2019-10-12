@@ -15,6 +15,11 @@ Then, the algorithm try to put the piece on each position of the map. One case o
 
 ![image](https://user-images.githubusercontent.com/45500862/66694834-e3900380-ec6c-11e9-83b2-e0ff9664f144.png)
 
+A piece may look something like this:
+
+![image](https://user-images.githubusercontent.com/45500862/66694901-ed663680-ec6d-11e9-8b02-6514bfd2ff3f.png)
+
+
 #### Usage: ./filler_vm -f path [-i | -p1 path | -p2 path] <b>[-s | -q | -t time]
    -t  --time		set timeout in second
    <br>-q  --quiet		quiet mode
